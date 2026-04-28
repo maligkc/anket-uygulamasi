@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SurveyPlatform.Api/SurveyPlatform.Api.csproj" />
+    <Project Path="src/SurveyPlatform.Application/SurveyPlatform.Application.csproj" />
+    <Project Path="src/SurveyPlatform.Domain/SurveyPlatform.Domain.csproj" />
+    <Project Path="src/SurveyPlatform.Infrastructure/SurveyPlatform.Infrastructure.csproj" />
+  </Folder>
+</Solution>

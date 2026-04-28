@@ -1,0 +1,35 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backend
+backend/bin/
+backend/obj/
+backend/.vs/
+backend/.vscode/
+backend/appsettings.local.json
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.*.local
+frontend/*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+*.dll
+*.exe
+*.o
+*.so
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
